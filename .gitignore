@@ -1,0 +1,21 @@
+# ----------------------------------------------------------------------
+# DEPENDENCIAS Y COMPILACIÓN (ARCHIVOS GENERADOS Y PESADOS)
+# ----------------------------------------------------------------------
+
+# Ignorar todas las carpetas 'node_modules' en cualquier subdirectorio
+**/node_modules
+
+# Ignorar carpetas de compilación de proyectos Vite/React
+**/dist
+**/build
+**/out
+
+# ----------------------------------------------------------------------
+# CONFIGURACIÓN DEL EDITOR Y DEL SISTEMA OPERATIVO
+# ----------------------------------------------------------------------
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos temporales de macOS
+.DS_Store
