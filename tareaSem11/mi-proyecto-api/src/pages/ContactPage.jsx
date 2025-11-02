@@ -7,7 +7,7 @@ import ContactForm from '../components/contact/ContactForm';
 const ContactPage = () => {
   return (
     // Usamos el Container normal (centrado)
-    <Container className="my-5">
+    <Container fluid className="my-5">
       <Row className="justify-content-md-center">
         {/* Centramos el formulario y le damos un ancho máximo */}
         <Col md={10} lg={8}>
