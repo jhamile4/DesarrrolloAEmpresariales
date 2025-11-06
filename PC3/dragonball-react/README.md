@@ -8,8 +8,9 @@ Este proyecto fue creado como parte de un desafío de desarrollo, implementando 
 
 ## 🚀 Enlaces en Vivo
 
-* **Enlace al Deploy (Vercel):** [https://TU_ENLACE_DE_VERCEL_AQUI.vercel.app](https://TU_ENLACE_DE_VERCEL_AQUI.vercel.app)
-* **Enlace al Video (YouTube):** [https://youtu.be/TU_ID_DE_TU_VIDEO](https://youtu.be/TU_ID_DE_TU_VIDEO)
+* **Enlace al Deploy :** https://dragonballcito.netlify.app/
+* **Enlace al Video :** https://www.youtube.com/watch?v=hGpqbCW0R9s
+
 
 ---
 
@@ -54,7 +55,7 @@ Si deseas clonar y correr este proyecto en tu máquina local, sigue estos pasos:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO_DE_GITHUB/dragonball-react.git](https://github.com/TU_USUARIO_DE_GITHUB/dragonball-react.git)
+    git clone 
     ```
 
 2.  **Navega a la carpeta del proyecto:**
