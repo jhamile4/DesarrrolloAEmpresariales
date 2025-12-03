@@ -5,7 +5,7 @@ const Header:React.FC=()=>{
     return(
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container">
-                <Link className="navbar-brand" to="/">Mi SPA</Link>
+                <Link className="navbar-brand" to="/">Mis paises</Link>
                 <div>
                     <Link className="nav-link d-inline me-2" to="/">Home</Link>
                     <Link className="nav-link d-inline me-2" to="/entities">Entities</Link>

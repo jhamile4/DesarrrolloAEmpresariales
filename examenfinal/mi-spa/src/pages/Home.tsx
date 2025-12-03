@@ -19,7 +19,7 @@ const Home: React.FC = () => {
       return (
     <>
       <section className="text-center mb-4">
-        <h1>Mi App Bonita</h1>
+        <h1>Mis paises</h1>
         <img src="https://restcountries.com/" alt="hero" className="img-fluid" />
       </section>
 
